@@ -1,6 +1,6 @@
 # MedGem Dijital Asistan Proje Raporu
 
-![logo.jpg](logo)
+![logo.jpg](logo.jpg)
 
 ## 1. Giriş 
 Dijital sağlık çözümleri, hastaların daha kaliteli hizmet almasını sağlamak ve sağlık profesyonellerinin iş yükünü hafifletmek için hızla önem kazanmaktadır. Bu proje, büyük dil modelleri (LLM) tabanlı bir sağlık asistanı geliştirmeyi hedeflemektedir. Asistan, bilgiye dayalı yanıtlar üretmek için çeşitli yapay zeka ve veri işleme tekniklerini kullanacaktır.
@@ -39,6 +39,9 @@ Sistem Python tabanlı backend ile desteklenecek, Gemini API ve Langchain entegr
 -	Sesli Asistan Entegrasyonu
 -	Çoklu Dil Desteği
 -	Kullanıcı dostu arayüz tasarımı
+
+![ui.jpg](ui.jpg)
+
 ## 6. Veri Güvenliği ve Uyumluluk
 -	GDPR, HIPAA uyumluluğu
 -	Veri şifreleme ve anonimleştirme
